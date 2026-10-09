@@ -113,7 +113,7 @@ powershell -ExecutionPolicy Bypass -File .\start.ps1
 
 ## 投入时间
 
-首轮可运行版本约一次实现会话。提交前请改成你的实际小时数。
+这次实现大约用了 3 小时。
 
 ## 如果再做两周
 
